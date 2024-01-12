@@ -1,0 +1,223 @@
+{
+  "auraNegativaPage": {
+    "coverSection": {
+      "title": "Aura Negativa",
+      "subtitle": "Blackwork",
+      "link": null,
+      "image": {
+        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
+        "alt": "",
+        "height": "",
+        "width": "",
+        "title": ""
+      }
+    },
+    "biographySection": {
+      "title": null,
+      "image": null,
+      "mediaText": [
+        {
+          "id": 1,
+          "addClass": "",
+          "image": {
+            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
+            "alt": "Aura Negativa mentre lavora",
+            "height": "270",
+            "width": "425",
+            "title": null
+          },
+          "paragraphs": [
+            {
+              "id": 1,
+              "text": "Laura Nardelli, in arte Aura Negativa, nasce a Mirano (VE) nel 1993 e si forma a Venezia frequentando studi artistici."
+            },
+            {
+              "id": 2,
+              "text": "Si diploma in grafica d’arte nel 2018 presso l’Accademia di Belle Arti, anno in cui inizia ad intraprendere la carriera di tatuatrice e illustratrice."
+            },
+            {
+              "id": 3,
+              "text": "Specializzata in soggetti in bianco e nero, predilige i temi occulti ed appartenenti alla simbologia esoterica, ma anche soggetti naturalistici e appartenenti al mondo animale e botanico."
+            },
+            {
+              "id": 4,
+              "text": "Esegue i seguenti stili: linework, blackwork, dotwork e ornamentale."
+            }
+          ]
+        }
+      ]
+    },
+    "worksSection": {
+      "title": "I miei lavori",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/n47s6t5ysckvwkqzpmwj.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 1"
+        },
+        {
+          "id": 2,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761156/inkaeTattooVenice/aura-negativa/tattoos/t55bk2l7tamu4gixfdod.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 2"
+        },
+        {
+          "id": 3,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/yeeo5jbr1itirctkzr0i.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 3"
+        },
+        {
+          "id": 4,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/prg7se4pf2o5s6jzcyjw.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 4"
+        },
+        {
+          "id": 5,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/nywlupbwltng3zcpqcef.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 5"
+        },
+        {
+          "id": 6,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/jkrwma9odnevpspy6dmz.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 6"
+        },
+        {
+          "id": 7,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/wwgzelgvavusndjkznje.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 7"
+        },
+        {
+          "id": 8,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/zf4sqa9fdwba79xwepwa.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 8"
+        },
+        {
+          "id": 9,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/tahe9hwmc3g5x5fsjzym.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 9"
+        },
+        {
+          "id": 10,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761155/inkaeTattooVenice/aura-negativa/tattoos/fd6tm8f3girqtzfjyerw.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Tattoo by Aura Negativa",
+          "title": "Testo che descrive il tatuaggio 10"
+        }
+      ]
+    },
+    "sketchesSection": {
+      "title": "Sketches",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/aura-negativa/sketches/blrzeqjrt5upkg3rqoqf.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Draw by Aura Negativa",
+          "title": "Testo che descrive il disegno 1"
+        },
+        {
+          "id": 2,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/aura-negativa/sketches/zbwntsffobj8mml5hvxb.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Draw by Aura Negativa",
+          "title": "Testo che descrive il disegno 2"
+        },
+        {
+          "id": 3,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/aura-negativa/sketches/dtj6y21ct9lriduofypm.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Draw by Aura Negativa",
+          "title": "Testo che descrive il disegno 3"
+        },
+        {
+          "id": 4,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/aura-negativa/sketches/sqfoclpyklufbgbzwdn5.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Draw by Aura Negativa",
+          "title": "Testo che descrive il disegno 4"
+        },
+        {
+          "id": 5,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/aura-negativa/sketches/myoumlitncqvei32aewr.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Draw by Aura Negativa",
+          "title": "Testo che descrive il disegno 5"
+        },
+        {
+          "id": 6,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/aura-negativa/sketches/ykywsiuhtw8gmjy44fe1.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Draw by Aura Negativa",
+          "title": "Testo che descrive il disegno 6"
+        },
+        {
+          "id": 7,
+          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/aura-negativa/sketches/j9im7n3zk1yi4dlhzl9v.webp",
+          "height": "700",
+          "width": "525",
+          "alt": "Draw by Aura Negativa",
+          "title": "Testo che descrive il disegno 7"
+        }
+      ]
+    },
+    "piercingSection": {
+      "title": "Piercing",
+      "image": {
+        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
+        "alt": "",
+        "height": "500",
+        "width": "1440",
+        "title": ""
+      },
+      "description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
+      "link": {
+        "href": "/piercing",
+        "alt": "Scopri i nostri servizi",
+        "text": "Scopri i nostri servizi"
+      }
+    },
+    "contactSection": {
+      "title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
+      "image": null,
+      "description": "",
+      "link": {
+        "href": "/contatti",
+        "alt": "Contattaci per saperne di più",
+        "text": "Contattaci per saperne di più"
+      }
+    }
+  }
+}
